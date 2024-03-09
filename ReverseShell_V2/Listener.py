@@ -1,4 +1,4 @@
-#Author aryan_not_ethical(instagram & discord)
+#Author x64_exploit0r(instagram & discord)
 #This is version 2 of my reverse shell
 '''
 -Better interface
